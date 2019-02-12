@@ -1,0 +1,48 @@
+body{
+    box-sizing: border-box;
+    background-image: linear-gradient(to right,orange,Blue);
+    font-family: serif;
+}
+
+.form{
+    padding: 100px;
+    margin: 50px;
+    text-align: center;
+}
+
+.inputy{
+    font-size: 25px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    color: Blue;
+    box-shadow: 2px 2px 5px 2px orange;
+}
+
+.button{
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    border: none;
+/*
+    background-image: linear-gradient(to right,red,blue);
+    
+*/
+    background-color: Blue;
+    box-shadow: 2px 2px 5px 2px blue;
+}
+
+.button:hover{
+    color: White;
+    background-color: transparent;
+}
+
+strong{
+    font-size: 25px;
+    color: white;
+}
+
+

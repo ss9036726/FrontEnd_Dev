@@ -1,0 +1,121 @@
+body{
+    background-color: green;
+    color: white;
+}
+
+.center{
+    text-align: center;
+    font-size: 2em;
+    font-family: serif;
+    padding: 10px;
+}
+
+.center h1{
+    background-color: rgba(50,50,50,0.5);
+}
+
+.btn1{
+    border: none;
+    border-radius: 10px;
+    background-color: orange;
+    font-size: 25px;
+    font-family:sans-serif;
+    padding: 15px 30px;
+    transition-duration: 0.5s;
+    transform: translate(0px,-5px);
+    box-shadow: 3px 3px 3px 3px black;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.btn1:hover {
+    color: black;
+    background-color: transparent;
+    border: 5px solid orange;
+}
+
+.btn2{
+    border: none;
+    border-radius: 10px;
+    background-color: red;
+    font-size: 25px;
+    font-family:sans-serif;
+    padding: 15px 30px;
+    transition-duration: 0.5s;
+    transform: translate(0px,-5px);
+    box-shadow: 3px 3px 3px 3px black;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.btn2:hover {
+    color: black;
+    background-color: transparent;
+    border: 5px solid red;
+}
+
+#inputy{
+    border: none;
+    padding: 10px 45px;
+    font-size: 25px;
+    font-family: monospace;
+}
+
+.btn3{
+    border: none;
+    border-radius: 10px;
+    background-color: skyblue;
+    font-size: 25px;
+    font-family:sans-serif;
+    padding: 15px 30px;
+    transition-duration: 0.5s;
+    transform: translate(0px,-5px);
+    box-shadow: 3px 3px 3px 3px black;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.btn3:hover {
+    color: black;
+    background-color: transparent;
+    border: 5px solid skyblue;
+}
+
+.anc a{
+    text-decoration: none;
+    border: 2px solid black;
+    margin-top: 25px;
+    background-color: lightcoral;
+    font-size: 1em;
+    padding: 15px;
+    box-shadow: 3px 3px 3px 3px black;
+    border-radius: 10px;
+    transform: translate(0px,-5px);
+    transition-duration: 0.5s;
+}
+
+a:hover {
+    color: black;
+    background-color: transparent;
+    border: 5px solid lightcoral;
+}
+
+.btn4{
+    border: none;
+    border-radius: 10px;
+    background-color: violet;
+    font-size: 25px;
+    font-family:sans-serif;
+    padding: 15px 30px;
+    transition-duration: 0.5s;
+    transform: translate(0px,-5px);
+    box-shadow: 3px 3px 3px 3px black;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.btn4:hover {
+    color: black;
+    background-color: transparent;
+    border: 5px solid violet;
+}

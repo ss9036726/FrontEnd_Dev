@@ -1,0 +1,22 @@
+body{
+    background-color: green;
+    color: white;
+}
+
+.center{
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 2em;
+    font-family: serif;
+}
+
+.center h1{
+    background-color: rgba(50,50,50,0.5);
+}
+
+.sample{
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    margin: -43px auto;
+}
