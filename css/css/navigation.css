@@ -1,0 +1,71 @@
+body{
+    background: url("../images/bg1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-bottom: 150px;
+    opacity: 0.8;
+}
+
+li{
+    float: left;
+    color: white;
+    font-size: white;
+    font-family: sans-serif;
+    padding:5px;
+}
+
+li a{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+
+li a:hover{
+    background-color: blue;
+}
+li:hover{
+    background-color: blue;
+}
+
+.righty{
+    float: right;
+}
+
+.active{
+    background-color:darkorange;
+}
+
+div{
+    
+    border: 5px solid white;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    background-color: grey;
+    opacity: 0.8;
+}
+
+h1{
+    color: aliceblue;
+    font-family: cursive;
+}
+
+button{
+    border-radius: 10px;
+    padding: 12px 15px;
+    font-family: monospace;
+    font-size: 22px;
+}

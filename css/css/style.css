@@ -1,0 +1,15 @@
+body{
+    background: url("../images/cat.jpg")
+        no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1{
+    color:red;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Patua One', cursive;
+    width: 500px;
+    padding: 40px;
+    margin: 300px auto;
+}
